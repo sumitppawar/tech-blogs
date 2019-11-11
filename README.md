@@ -34,4 +34,4 @@ Scala
  3. [Scala Times](https://scalatimes.com/)
 
 Spark 
-1. [Bief Architectuer ](https://0x0fff.com/spark-architecture/)
+1. [Bief Architecture](https://0x0fff.com/spark-architecture/)
