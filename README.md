@@ -28,7 +28,10 @@ Data Science
 2. [KDnuggets™](https://www.kdnuggets.com/)
 
 Scala
-																																
+																														
  1. [Scala data structure performance](https://www.google.com/url?q=https://docs.scala-lang.org/overviews/collections/performance-characteristics.html&sa=D&source=hangouts&ust=1572751417020000&usg=AFQjCNE2Ae3R8Jlt3ZcrqUeKV5mAGIb70A)
  2. [This week in #Scala](https://medium.com/disney-streaming/this-week-in-scala-oct-28-2019-17b680d52884?source=collection_home---4------0-----------------------)
  3. [Scala Times](https://scalatimes.com/)
+
+Spark 
+1. [Bief Architectuer ](https://0x0fff.com/spark-architecture/)
