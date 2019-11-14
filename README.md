@@ -5,12 +5,13 @@ News
  1. [Hacker News](https://news.ycombinator.com/news)
 
 Programming
-1. [Topcoder](https://www.google.com/url?q=https://www.topcoder.com/challenges&sa=D&source=hangouts&ust=1572751417019000&usg=AFQjCNHlwVNTJVB4j3oj4KgRLBeaOj8n5A)
-2. [LeetCode](https://leetcode.com/)
-3. [Project Euler](https://projecteuler.net/)
-4. [Kattis](https://open.kattis.com/problems)
-5. [GeeksforGeeks](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
-6. [Online J](https://onlinejudge.org/)
+1. [Top coder tutorial](https://www.topcoder.com/community/competitive-programming/tutorials/)
+2. [Topcoder](https://www.google.com/url?q=https://www.topcoder.com/challenges&sa=D&source=hangouts&ust=1572751417019000&usg=AFQjCNHlwVNTJVB4j3oj4KgRLBeaOj8n5A)
+3. [LeetCode](https://leetcode.com/)
+4. [Project Euler](https://projecteuler.net/)
+5. [Kattis](https://open.kattis.com/problems)
+6. [GeeksforGeeks](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+7. [Online J](https://onlinejudge.org/)
 
 
 
