@@ -38,3 +38,6 @@ Scala
 
 Spark 
 1. [Bief Architecture](https://0x0fff.com/spark-architecture/)
+
+Rest APIs - Design Guidelines
+1. [Apigee REST guidelines](https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf)
