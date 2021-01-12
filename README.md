@@ -1,5 +1,7 @@
 ### Tech blogs
 
+[How To Become a Data Engineer?](https://khashtamov.com/en/how-to-become-a-data-engineer/)
+
 News
 
  1. [Hacker News](https://news.ycombinator.com/news)
