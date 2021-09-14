@@ -46,3 +46,6 @@ Spark
 
 Rest APIs - Design Guidelines
 1. [Apigee REST guidelines](https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf)
+
+Non Tech
+1. [High Performance Organizations Reading List](https://github.com/pdfernhout/High-Performance-Organizations-Reading-List)
