@@ -28,6 +28,10 @@ Architecture
 2. [Facebook Engineering](https://engineering.fb.com/)
 
 
+Software Documentation
+1. [Living Documentation: Continuous Knowledge Sharing by Design](https://www.amazon.com/Living-Documentation-Cyrille-Martraire/dp/0134689321)
+
+
 Distributed System
 
  1. [All Things Distributed](https://www.allthingsdistributed.com/)
