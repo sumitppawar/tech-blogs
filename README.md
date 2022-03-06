@@ -9,6 +9,8 @@ News
 Startup
   1. [Free resources to promote your next startup](https://github.com/trekhleb/promote-your-next-startup)
  
+ Developers [Networking](https://www.samjulien.com/shy-dev-networking) guide
+ 
 Interview
 1. [Tech Interview Handbook](https://techinterviewhandbook.org/algorithms/algorithms-introduction/)
 
