@@ -7,7 +7,8 @@ News
  1. [Hacker News](https://news.ycombinator.com/news)
  
 Startup
-  1. [Free resources to promote your next startup](https://github.com/trekhleb/promote-your-next-startup)
+  1. [How to find an idea ?](https://www.defmacro.org/2015/02/25/startup-ideas.html)
+  2. [Free resources to promote your next startup](https://github.com/trekhleb/promote-your-next-startup)
  
  Developers [Networking](https://www.samjulien.com/shy-dev-networking) guide
  
