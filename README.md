@@ -1,5 +1,7 @@
 ### Tech blogs
 
+[Terms and Concepts by Technically](https://airtable.com/shrGh8BqZbkfkbrfk/tbluZ3ayLHC3CKsDb)
+
 [How To Become a Data Engineer?](https://khashtamov.com/en/how-to-become-a-data-engineer/)
 
 News
