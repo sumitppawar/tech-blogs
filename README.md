@@ -1,5 +1,14 @@
 ### Tech blogs
 
+#### Dristributes System
+[If you have few days](https://github.com/donnemartin/system-design-primer)
+
+[If you have a couple of weeks to prepare](https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review/)
+
+If you have plenty of time
+	- Designing Data-Intensive Applications 
+	-  [Understanding Distributed Systems](https://understandingdistributed.systems/)
+
 [Terms and Concepts by Technically](https://airtable.com/shrGh8BqZbkfkbrfk/tbluZ3ayLHC3CKsDb)
 
 [How To Become a Data Engineer?](https://khashtamov.com/en/how-to-become-a-data-engineer/)
