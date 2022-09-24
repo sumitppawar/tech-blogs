@@ -1,5 +1,8 @@
 ### Tech blogs
 
+Good read on interview 
+https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/
+
 #### Dristributes System
 [If you have few days](https://github.com/donnemartin/system-design-primer)
 
